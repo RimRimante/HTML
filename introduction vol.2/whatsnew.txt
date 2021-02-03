@@ -1,0 +1,10 @@
+How to setup HTML file
+The <html>tag
+head and body elements
+Page titles
+Linking to other web pages
+Opening links in a new tab
+Linking to relative Page
+text link and picture link
+Linking to same page
+Comments 
