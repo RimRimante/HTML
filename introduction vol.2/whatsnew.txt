@@ -1,10 +1,9 @@
 How to setup HTML file
-The <html>tag
+The <html> tag
 head and body elements
 Page titles
-Linking to other web pages
+Linking to other web pages, and to relative Page
 Opening links in a new tab
-Linking to relative Page
 text link and picture link
 Linking to same page
 Comments 
