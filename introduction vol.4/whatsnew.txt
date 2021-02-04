@@ -1,0 +1,6 @@
+text input,Adding a label
+Password, Number, Range, Checkbox, Radio button imput
+Dropdown list
+Datalist imput
+Textarea element
+Submit form
