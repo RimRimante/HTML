@@ -1,0 +1,4 @@
+Requiring an Input
+Set a maximum and minimum
+Checking Text legth
+Matching a pattern
