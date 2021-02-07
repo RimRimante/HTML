@@ -1,0 +1,8 @@
+Intro to Semantic HTML
+Header and Nav
+Main and Footer
+Article and section 
+The aside element
+Figure and Figcaption
+Audio and attributes
+Video and Embed
